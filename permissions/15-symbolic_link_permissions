@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r ugo+x hello:vincent
+chmod ugo+x hello:vincent /staff/
