@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x staff /hello:vincent/
+chown hello chgrp vincent/staff
